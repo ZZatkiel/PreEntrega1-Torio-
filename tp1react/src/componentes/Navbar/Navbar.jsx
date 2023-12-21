@@ -1,7 +1,6 @@
 import estilazo from './Navbar.module.css'
 import Button from '../Button/button'
 import CartWidget from '../CartWidget/CartWidget'
-import ItemListContainer from '../ItemListContainer/ItemListContainer'
 
 const Navbar = () => {
     return (
@@ -17,7 +16,6 @@ const Navbar = () => {
                     <CartWidget/>
                 </div>
             </nav>
-            <ItemListContainer texto={'Bienvenidos a todos'}/>
         </header>
     )
 }
