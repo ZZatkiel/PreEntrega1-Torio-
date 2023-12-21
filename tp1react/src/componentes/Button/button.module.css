@@ -1,0 +1,18 @@
+.letra{
+    font-size: 1rem;
+    color: #fafafa;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.fondo{
+    background-color:#363b52;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.efecto:hover{
+    background-color:#2a3047;
+    transition: all 0.3s ease;
+}

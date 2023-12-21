@@ -1,0 +1,17 @@
+.todo{
+    font-size: 2rem;
+    color: #fafafa;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.fondo{
+    background-color: #292B37;
+    padding: 15px 0 15px 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    background-color:#363b52;
+}
